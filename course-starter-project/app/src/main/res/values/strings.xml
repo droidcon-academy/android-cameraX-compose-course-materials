@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CameraX</string>
+
+    <!-- Permissions -->
+    <string name="permission_missing_camera">To use your camera, you need to grant this permission in Settings.</string>
+    <string name="permission_missing_storage">To take a picture, you need to grant this permission in Settings.</string>
+    <string name="permission_missing_audio">To record audio, you need to grant this permission in Settings.</string>
+    <string name="permission_missing_cancel">Cancel</string>
+    <string name="permission_missing_settings">Settings</string>
+
+    <!-- Actions -->
+    <string name="action_photo">PHOTO</string>
+    <string name="action_video">VIDEO</string>
+
+    <string name="action_video_quality">Video quality</string>
+
+    <!-- Information -->
+    <string name="info_image_saved">Image saved successfully</string>
+    <string name="info_video_saved">Video saved successfully</string>
+
+    <!-- Descriptions -->
+    <string name="description_photo">Take a pictured</string>
+    <string name="description_video">Record a video</string>
+
+    <string name="description_preview">Image preview</string>
+
+    <string name="description_rotate">Rotate camera</string>
+    <string name="description_flash">Enable/disable flash</string>
+    <string name="description_zoom">Increase/reduce zoom</string>
+
+    <string name="description_bokeh">Enable/disable bokeh</string>
+    <string name="description_hdr">Enable/disable hdr</string>
+    <string name="description_night">Enable/disable night</string>
+    <string name="description_face_retouch">Enable/disable face retouch</string>
+    <string name="description_auto">Enable/disable auto</string>
+
+</resources>
