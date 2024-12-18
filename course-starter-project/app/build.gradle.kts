@@ -1,15 +1,16 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0"
 }
 
 android {
-    compileSdk = 33
+    compileSdk = 35
     namespace = "com.cmota.camerax"
     defaultConfig {
         applicationId = "com.cmota.camerax"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
